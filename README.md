@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working at [JankariTech Pvt. Ltd.](https://www.jankaritech.com/)
-- 🌱 I’m currently learning software development with quality assuarance
+- 🌱 I’m currently learning software development with Quality Assurance 
 - 👯 I’m looking to collaborate on FOSS 
 - 💬 Ask me about test automation
 - 📫 How to reach me: talankbaral@gmail.com
