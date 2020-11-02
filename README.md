@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Talank&label=Views&color=brightgreen&style=plastic" alt="Asheshshrestha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Talank&label=Views&color=brightgreen&style=plastic" alt="Talank" /> </p>
 
 <!--
 **Talank/talank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
