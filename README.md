@@ -13,4 +13,4 @@
 - 📝 Find my blogs at https://dev.to/talank
 - ⚡ Fun fact: The Ctrl-Z is better than a time machine
 
-![Talank's github stats](https://github-readme-stats.vercel.app/api?username=talank&show_icons=true&theme=radical)
+<!-- ![Talank's github stats](https://github-readme-stats.vercel.app/api?username=talank&show_icons=true&theme=radical) -->
