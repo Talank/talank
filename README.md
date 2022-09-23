@@ -6,7 +6,7 @@
 **Talank/talank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working at [JankariTech Pvt. Ltd.](https://www.jankaritech.com/) and [ownCloud](https://owncloud.com/)
+- 🔭 I’m currently a Ph.D. student at George Mason University
 - 🌱 I’m currently learning software development with Quality Assurance 
 - 💬 Ask me about software development
 - 📫 How to reach me: talankbaral@gmail.com
